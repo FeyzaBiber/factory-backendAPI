@@ -4,9 +4,9 @@
 
 https://factory-backend-api.vercel.app/
 
-#Docs
+# Docs
 
-##/user
+## /user
 
 - POST /user/signin  
 - POST /user/signup  
@@ -19,7 +19,7 @@ password: string (min. 6 length)
 role: ['admin', 'editor']
 
 
-##/fabrika_adi
+## /fabrika_adi
 
 - GET /fabrika_adi
 - POST /fabrika_adi
@@ -37,7 +37,7 @@ kullanim_bedeli
 indirimli_fiyat
 
 
-##/fabrika_listesi
+## /fabrika_listesi
 
 - GET /fabrika_listesi
 - POST /fabrika_listesi
